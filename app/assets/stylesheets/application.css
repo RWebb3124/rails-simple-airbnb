@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+
+#logo-text {
+  text-decoration: none;
+  color: rgb(0, 65, 65);
+  font-size: large;
+}
